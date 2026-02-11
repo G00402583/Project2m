@@ -69,9 +69,6 @@ and performance optimization.
 
 <hr>
 
-<h2>📷 Screenshots</h2>
-<p>Add screenshots of login page, dashboard, and cart here.</p>
-
 <hr>
 
 <h2>📄 License</h2>
