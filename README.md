@@ -80,7 +80,7 @@ and performance optimization.
 <hr>
 
 <h2>👤 Author</h2>
-<p>Created by <strong>King</strong></p>
+<p>Created by <strong>Maliq</strong></p>
 
 </body>
 </html>
